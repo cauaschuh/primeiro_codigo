@@ -15,5 +15,9 @@ else
     Console.WriteLine($"Número {variavelQueSalvaUmNumero} é impar");
 }
 
-
+// Contador de 1 a 5
+for (int i =1; i<=5; i++)
+{
+    Console.WriteLine(i);
+}
     
